@@ -15,3 +15,8 @@ Welcome to Neumorphic Form Validation, a project built using HTML, CSS, and Java
 - **CSS**: Stylesheets for designing the neumorphic layout and appearance.
 - **JavaScript**: Programming language for implementing form validation logic and interactivity.
 ### PROJECT LINK: https://sriharivas5.github.io/Form-Validation/?
+![Screenshot 2024-05-07 142558](https://github.com/Sriharivas5/Form-Validation/assets/155137670/cd86e4ce-48a9-4673-9821-c7393c5cda02)
+
+![Screenshot 2024-05-07 142718](https://github.com/Sriharivas5/Form-Validation/assets/155137670/65b559e3-f638-473e-8f3c-926be2e4e831)
+![Screenshot 2024-05-07 142911](https://github.com/Sriharivas5/Form-Validation/assets/155137670/39a395a7-fc66-42f8-9e58-421cb63ba0eb)
+
